@@ -21,4 +21,27 @@ http://www.instructables.com/id/DIY-OFF-GRID-SOLAR-SYSTEM/?ALLSTEPS
 * We need to design a folding fan of some kind.
 * We probably need to lay underground conduit.
 * We probably need to have an electrician inspect this stuff.
+* 
+
+## Some back-of the envelope calcutaitons
+
+Daily Load: Light at 11 Watths for 3 hours 
+Fan: 50 W x 8 Hours 
+
+Total ~= 450 Watt Hours
+
+Battery (12 Volts) requireed 450/ 12 = 37.5 Amp hours, so get 40 A hour battery.
+
+Example battery: http://www.amazon.com/VMAX-MB86-50-Replacement-Scooter-Upgrades/dp/B00BJBCZV6/ref=sr_1_1?ie=UTF8&qid=1442094654&sr=8-1&keywords=12V+battery+deep+cycle+40AH
+ $140 
+ 
+
+Basic circuit power = 170W/ 12 volts ~= 15 Amps
+
+So we need a 15 amp charge controller.
+
+This is a possibility, again $150: http://www.amazon.com/Tektrum-Solar-Panel-Charge-Controller/dp/B004GBWJ44
+
+However, our panel has an open-circuit voltage of 44.3 V --- that may be a problem for that controller.  I don't fully understand this.
+
 
