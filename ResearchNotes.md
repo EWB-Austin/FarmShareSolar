@@ -44,4 +44,8 @@ This is a possibility, again $150: http://www.amazon.com/Tektrum-Solar-Panel-Cha
 
 However, our panel has an open-circuit voltage of 44.3 V --- that may be a problem for that controller.  I don't fully understand this.
 
+This charge controller claims to work with High-voltage panels, but is $225 http://www.solar-electric.com/mosumpsochco.html
+
+Interesting video: https://www.youtube.com/watch?v=lbkp5zr7ngI
+
 
