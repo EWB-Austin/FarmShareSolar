@@ -48,4 +48,18 @@ This charge controller claims to work with High-voltage panels, but is $225 http
 
 Interesting video: https://www.youtube.com/watch?v=lbkp5zr7ngI
 
+Components:
+
+* Panel : We have this.
+* Charge Controller: $150
+* Battery: $150
+* Lights:
+* Switching system: Two switches
+* Panel Frame:
+* Ground Rod;
+* Grounding Wire:
+* Lighting Appliances
+* Fan
+
+
 
